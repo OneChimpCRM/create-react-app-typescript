@@ -22,7 +22,10 @@
   },
   "dependencies": {
     "@types/react": "^16.3.13",
+<<<<<<< HEAD
     "ajv": "^6.4.0",
+=======
+>>>>>>> 6d970bf60b4f8459ce8a450f84de84af68d0ae5f
     "autoprefixer": "7.1.6",
     "babel-jest": "^22.1.0",
     "babel-loader": "^7.1.2",
